@@ -1,5 +1,5 @@
 ---
 title: About
-layout: home
+layout: default
 ---
 This is a future about page
