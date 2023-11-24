@@ -10,10 +10,10 @@ This was my final for my first programming class; a simple C# console app game. 
 ### Menus
 The intro page, establishes the controls for the game.
 ![An image showing a welcome screen with keyboard controls](/img/readme/amenu.png)  
-
-The success page congratulating the player for finishing the game.
+  
+The success page congratulating the player for finishing the game.  
 ![An image showing the console congratulating the player](/img/readme/awon.png)  
-
+  
 ### Levels
 
 The game starts at level 1 with a few letter "A"s, and each subsequent level has more.

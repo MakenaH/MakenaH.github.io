@@ -28,7 +28,7 @@ The website, DutchTreat, was a class exercise involving understanding and creati
 ## Deck Generator (C#)  
 ![A snippet from the console app asking for the number of cards](/img/deckprompt.png){: style="float: left"} 
 2022  
-Draw from the Deck is a simple C# console application that was made as a personal project. The purpose of the application is to simulate a character drawing a card from a customized Deck of Many Things from the table top roleplaying game Dungeons & Dragons. The app asks for a number of cards the user wishes to draw, then randomly selects some cards from it's internal list and presents them to the user, asking whether the card was already drawn (if the fictional deck does not have all it's cards because someone else drew) to assure the cards the character draws are all unique, and continues until the number of requested unique cards has been met.
+Draw from the Deck is a simple C# console application that was made as a personal project. The application's purpose is to simulate a character drawing a card from a customized Deck of Many Things from the table top roleplaying game Dungeons & Dragons. The app asks for a number of cards the user wishes to draw, then randomly selects some cards from it's internal list and presents them to the user, asking whether the card was already drawn (if the fictional deck does not have all it's cards because someone else drew), and continues until the number of requested unique cards has been met.
   
 [Deck Generator Repository]
 
