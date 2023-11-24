@@ -5,6 +5,9 @@ parent: Projects
 nav_order: 2
 ---
 # The A Game
+
+[A Game Repository]
+
 This was my final for my first programming class; a simple C# console app game. The game is called the A Game, it's premise is that on one side of the screen the application will randomly generate a series of letter "A"s in a box. The user's task is to place down where they estimate the "A"s to be, whether that be through careful counting of the border or trying to eyeball the placement and estimate about where they are.
 ## Game
 ### Menus
@@ -21,3 +24,5 @@ The game starts at level 1 with a few letter "A"s, and each subsequent level has
 
 And progresses to a final level 5.\
 ![An image showing the game with many more scattered letter "A"s](/img/readme//aplayfinal.png)  
+
+[A Game Repository]: https://github.com/MakenaH/AGame

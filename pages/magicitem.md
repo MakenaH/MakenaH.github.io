@@ -7,6 +7,8 @@ nav_order: 2
 
 # Magic Items App
 
+[Magic Item Repository]
+
 The magic item app was done as an assignment for school to showcase an understanding of routine through creating a multi-screen application in Kotlin and Compose. The app's purpose is for a user to be able to input some information about a magic item, either from a Table Top Roleplaying Game's source books or one created by the user, and see it displayed in both a detailed list and a complete list of all magic items.  
 
 ## Screens
@@ -29,3 +31,5 @@ After creation or when navigated to by clicking on it from the list view, the us
 A non-functional sample contact page.
 
 ![An image showing a contact page with a disabled submit button](/img/readme/micontact.png)  
+
+[Magic Item Repository]: https://github.com/MakenaH/Assignment3_AppDev
