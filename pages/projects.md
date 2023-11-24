@@ -15,7 +15,7 @@ The magic item app was done as an assignment for school to showcase an understan
 [Magic Item Repository]
 
 {:style="clear: left"} 
-#  
+  
 ## DutchTreat - Art Shop Website (ASP.NET)  
 ![A snippet from the page showing the artwork listing](/img/dtshop.png){: style="float: right"} 
 2023  
@@ -24,7 +24,7 @@ The website, DutchTreat, was a class exercise involving understanding and creati
 [DutchTreat Repository]
 
 {:style="clear: right"} 
-#  
+  
 ## Deck Generator (C#)  
 ![A snippet from the console app asking for the number of cards](/img/deckprompt.png){: style="float: left"} 
 2022 
