@@ -6,7 +6,7 @@ layout: default
 
 ## Programming  
 
-Makena Howat has been programming for 3 years, and has the most experience with C#. They enjoy programming for a variety of reasons, as it is a great interception between their enjoyment of logic and puzzle solving and creativity.  
+Makena Howat has been programming for 3 years, C# being the language they've been coding in for the longest. They enjoy programming for a variety of reasons, such as how it is a great interception between their enjoyment of logic and puzzle solving and creativity.  
 
 ## Hobbies  
 
