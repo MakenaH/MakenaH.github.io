@@ -6,7 +6,7 @@ nav_order: 2
 ---
 # DutchTreat
 
-A class exercise to make a ASP.NET MVC website simulating a shop selling art.  
+The website, DutchTreat, was a class exercise involving understanding and creating a website using ASP.NET with MVC architecture. The website simulates a shop selling classic artwork on a variety of things, such as mugs and posters by reading in information from a JSON file then outputting it in a pleasing manner. The site also has a contact form with built in validation and sends an email to the inputted email address using SendGrid API. 
 
 ## Pages  
 ### Shop  
