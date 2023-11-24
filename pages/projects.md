@@ -34,10 +34,19 @@ Draw from the Deck is a simple C# console application that was made as a persona
 
 {:style="clear: left"} 
 
+## A Game (C#)  
+![A snippet from the console app asking for the number of cards](/img/aplayimg.png){: style="float: right"} 
+2021  
+This was my final for my first programming class; a simple C# console app game. The game is called the A Game, it's premise is that on one side of the screen the application will randomly generate a series of letter "A"s in a box. The user's task is to place down where they estimate the "A"s to be, whether that be through careful counting of the border or trying to eyeball the placement and estimate about where they are.
+  
+[A Game Repository]
+
+{:style="clear: right"} 
+
 
 
 
 [Magic Item Repository]: https://github.com/MakenaH/Assignment3_AppDev
 [DutchTreat Repository]: https://github.com/MakenaH/DutchTreat
 [Deck Generator Repository]: https://github.com/MakenaH/DeckGenerator
-
+[A Game Repository]: https://github.com/MakenaH/AGame
