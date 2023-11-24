@@ -16,8 +16,8 @@ The success page congratulating the player for finishing the game.
   
 ### Levels
 
-The game starts at level 1 with a few letter "A"s, and each subsequent level has more.
+The game starts at level 1 with a few letter "A"s, and each subsequent level has more.  
 ![An image showing the game with the scattered letter "A"s](/img/readme/aplay.png)  
 
-And progresses to a final level 5.
+And progresses to a final level 5.\
 ![An image showing the game with many more scattered letter "A"s](/img/readme//aplayfinal.png)  
