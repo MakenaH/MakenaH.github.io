@@ -13,9 +13,15 @@ Makena Howat has been programming for 3 years, and has the most experience with 
 They enjoy using other mediums as outputs for their enjoyment of being creative and constantly learning new skills. Whether it be an application or sweater, they always enjoy learning new ways to create. 
 ### Crochet  
 
-![A crochet heart themed sweater](/img/heart.jpg) Test test  
-![A crochet sweater with a simplified pixel version of Starry Night on it](/img/starry.jpg) Also test  
-![A pair of crochet pants with many intricate white pockets and straps](/img/pants.jpg) Test?  
+![A crochet heart themed sweater](/img/heart.jpg){: style="float: left"} 
+Test test Test test Test test Test test Test test Test test Test test 
+{:style="clear: left"}    
+![A crochet sweater with a simplified pixel version of Starry Night on it](/img/starry.jpg){: style="float: left"} 
+Also test  
+{:style="clear: left"}
+![A pair of crochet pants with many intricate white pockets and straps](/img/pants.jpg){: style="float: left"} 
+Test?  
+{:style="clear: left"}
 ### Drawing
 
 ![A drawing of a character reminiscent of Frakenstein with wings wearing a lot of covering, fantasy style clothing](/img/curio.png)  
