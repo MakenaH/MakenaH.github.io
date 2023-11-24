@@ -9,10 +9,10 @@ has_children: true
 ## Magic Item App (Kotlin & Compose)   
   
 ![A crochet heart themed sweater](/img/form.png){: style="float: left"} 
-&nbsp; 2023  
-&nbsp; The magic item app was done as an assignment for school to showcase an understanding of routine through creating a multi-screen application in Kotlin and Compose. The app's purpose is for a user to be able to input some information about a magic item, either from a Table Top Roleplaying Game's source books or one created by the user, and see it displayed in both a detailed list and a complete list of all magic items.  
+&nbsp;&nbsp; &nbsp; 2023  
+&nbsp;&nbsp; &nbsp; The magic item app was done as an assignment for school to showcase an understanding of routine through creating a multi-screen application in Kotlin and Compose. The app's purpose is for a user to be able to input some information about a magic item, either from a Table Top Roleplaying Game's source books or one created by the user, and see it displayed in both a detailed list and a complete list of all magic items.  
   
-&nbsp; [Magic Item Repository]
+&nbsp;&nbsp; &nbsp; [Magic Item Repository]
 
 {:style="clear: left"} 
 
